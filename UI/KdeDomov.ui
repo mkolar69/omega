@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>874</width>
+    <height>789</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>10</y>
+     <width>451</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Kde domov můj</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>50</y>
+     <width>161</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>hymny</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>70</y>
+     <width>181</width>
+     <height>421</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>   A         E7             A
+1. Kde domov můj, kde domov můj?
+   A7   D         A
+   Voda hučí po lučinách,
+        D          A
+   bory šumí po skalinách,
+          E7           A
+   v sadě skví se jara květ,
+          E7          A
+   zemský ráj to na pohled.
+        C#           F#mi D
+   A to je ta krásná země,
+        A E7           A  D
+   země česká, domov můj,
+        A E7         A
+   země česká, domov můj!
+
+2. Kde domov můj, kde domov můj?
+   V kraji znáš-li bohumilém
+   duše útlé v těle čilém,
+   mysl jasnou, vznik a zdar,
+   a tu sílu vzdoru zmar!
+   To je Čechů slavné plémě,
+   mezi Čechy domov můj,
+   mezi Čechy domov můj.</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

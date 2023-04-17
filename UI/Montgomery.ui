@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>714</width>
+    <height>722</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>10</y>
+     <width>141</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>16</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Montgomery</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>50</y>
+     <width>71</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>taborove pisne</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>80</y>
+     <width>341</width>
+     <height>611</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string> Celá sloka mandolína
+   G                          C    Ami
+1. Déšť ti, holka, smáčel vlasy, smáčel vlasy,
+   D7                         G   D7
+   z tvých očí zbyl prázdný kruh,
+   G                        C     Ami
+   kde jsou zbytky tvojí krásy, tvojí krásy,
+   D7                    G   D7
+   to ví dneska snad jen Bůh.
+
+   G                    C      Ami
+R: Z celé jižní eskadrony, eskadrony
+   D7                G   D7
+   nezbyl ani jeden muž (ani kuš!),
+   G                     C    Ami
+   v Montgomery bijou zvony, bijou zvony (blijou sloni),
+   D7                    G   D7
+   déšť ti smejvá ze rtů rúž.
+
+   G                        C       Ami
+2. Na kopečku v prachu cesty, v prachu cesty
+   D7              G    D7
+   leží i tvůj generál,
+   G                    C         Ami
+   v ruce šátek od nevěsty, od nevěsty,
+   D7            G  D7
+   ale ruka leží dál.
+R:
+ SOLO MANDOLINA
+    G                       C            Ami
+3. Tvář má zšedivělou strachem, no vážně strachem,
+   D7                         G  D7
+   zbylo v ní pár těžkejch chvil,
+   G                        C       Ami
+   proužek krve stéká prachem, stéká prachem,
+   D7                        G  D7
+   déšť mu slepil vlas jak jíl.
+R:
+   G                      C       Ami 
+4. Déšť ti šeptá jeho jméno, jeho jméno,
+   D7               G D7
+   šeptá ho i listoví,
+   G                        C         Ami
+   lásku měl rád víc než život, víc než život,
+   D7               G D7
+   to ti nikdy nepoví.
+R:                                + G  D7  G</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

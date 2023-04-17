@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>714</width>
+    <height>763</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(125, 125, 125);
+border-color: rgb(255, 255, 255);</string>
+  </property>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>70</y>
+     <width>151</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string>Jan Werich, Jiří Voskovec</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>30</y>
+     <width>201</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>16</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string>Klobouk ve křoví</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>100</y>
+     <width>241</width>
+     <height>301</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(104, 104, 104);
+gridline-color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string> C    Fmi                    Fmi    C
+Vítr vane pouští,  po písku žene klobouk,
+ Fmi   G      C/Ami   Fmi     G         C 
+zahnal ho do houští, starý a černý klobouk.
+
+ C    Fmi                    Fmi    C
+Kdepak je ta hlava,   která klobouk nosila?
+ Fmi   G      C/Ami   Fmi     G         C
+Byla černá či plavá?  Komu asi patřila?
+
+ C    Fmi                    Fmi    C
+Kdo to v poušti zmizel?  Odkud šel a kam?
+ Fmi   G      C/Ami   Fmi     G         C 
+Jaký to měl svízel, že byl v poušti sám?
+
+ C    Fmi                    Fmi    C  
+Jen zaváté stopy.  Starý klobouk ve křoví.
+ Fmi   G      C/Ami   Fmi     G         C
+Nikdo nic nepochopí.  Nikdo se nic nedoví.</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>90</y>
+     <width>311</width>
+     <height>401</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(:/newPrefix/PycharmProjects/omega/script/Main/pics/akordy2.png);</string>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="../../../../OneDrive/Desktop/akordy2.qrc"/>
+ </resources>
+ <connections/>
+</ui>

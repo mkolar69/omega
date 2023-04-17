@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>714</width>
+    <height>761</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>70</y>
+     <width>71</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Michal Tučný</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>100</y>
+     <width>361</width>
+     <height>641</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Začínám já 
+
+         G                                          C
+1. Tenhle příběh je pravda, ať visím, jestli vám budu lhát,
+         D7                                           G
+   já jsem potkal jednu dívku a do dnešního dne ji mám rád,
+                                                  C
+   nikdy neměla zlost, když jsem hluboko do kapsy měl,
+           D7                                           G
+   vždycky měla pochopení a já se s ní nikdy hádat nemusel.
+
+           G                                   C
+R: Když si báječnou ženskou vezme báječnej chlap,
+            D7                                        G
+   tak mají báječnej život plnej báječnejch dní bez útrap,
+                                                    C
+   celej den jen tak sedí a popíjejí Châteauneuf-du-Pape,
+           D7                              G
+   když si báječnou ženskou vezme báječnej chlap.
+
+        G                                            C
+2. Nikdy jsem neslyšel: kam jdeš, kdy přijdeš a kde jsi byl,
+        D7                                       G
+   a já nikdy nezapomněl, abych svoje sliby vyplnil,
+                                                       C
+   a když vzpomínala, tak jen na to hezký, co nám život dal,
+         D7                                        G
+   nedala mi příležitost, na co bych si taky stěžoval.
+
+R:
+         G                                                    C
+3. Tenhle příběh je pravda a sním svůj klobouk, jestli jsem vám
+   lhal,
+          D7                                              G
+   že jsem potkal jednu dívku a tu dívku jsem si za ženu vzal,
+                                        C
+   zní to jako pohádka z oříšku královny Máb,
+          D7                                    G
+   že si báječnou ženskou vzal jeden báječnej chlap.
+
+           G                               C
+R: Když si báječnou ženskou vezme báječnej chlap,
+            D7                                  G      
+   tak mají báječnej život plnej báječnejch dní bez útrap,
+                                                    C
+   celej den jen tak sedí a popíjejí Châteauneuf-du-Pape,
+           D7                              G
+   když si báječnou ženskou vezme báječnej chlap. + 4 takty G</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>30</y>
+     <width>141</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>16</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Báječná ženská</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

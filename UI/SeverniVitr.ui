@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>917</width>
+    <height>738</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>60</y>
+     <width>561</width>
+     <height>671</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>   D                    Hmi
+1. Jdu s děravou patou, mám horečku zlatou,
+        G                     D
+   jsem chudý, jsem sláb, nemocen.
+                   Hmi               G
+   Hlava mě pálí a v modravé dáli se leskne
+     A7         D
+   a třpytí můj sen.
+   
+        D                   Hmi 
+2. Kraj pod sněhem mlčí, tam stopy jsou vlčí, 
+       G                  D  
+   tam zbytečně budeš mi psát,
+                      Hmi                
+   sám v dřevěné boudě sen o zlaté hroudě
+      G       A7         D
+   já nechám si tisíckrát zdát.
+
+   D       D7        G     D                A7
+R: Severní vítr je krutý, počítej lásko má s tím, 
+    D          D7        G             D     A7     D A7
+   k nohám Ti dám zlaté pruty, nebo se vůbec nevrátím
+
+      D                       Hmi
+3. Tak zarůstám vousem a vlci už jdou sem,
+      G                      D
+   už slyším je výt blíž a blíž.
+                        Hmi              
+   Už mají mou stopu, už větří, že kopu
+    G          A7               D
+   svůj hrob a že stloukám si kříž.
+
+     D                     Hmi
+4. Zde leží ten blázen, chtěl dům a chtěl bazén
+     G                     D
+   a opustil tvou krásnou tvář.
+                        Hmi               
+   Má plechovej hrnek a pár zlatejch zrnek
+    G        A7           D     
+   a nad hrobem polární zář.
+
+   D       D7         G     D               A7
+R: Severní vítr je krutý, počítej lásko má s tím, 
+    D          D7        G              D    A7    D A7
+   k nohám Ti dám zlaté pruty, nebo se vůbec nevrátím
+
+      D        D7        G             D     A7    D 
+   k nohám Ti dám zlaté pruty, nebo se vůbec nevrátím</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>10</y>
+     <width>451</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Severní vítr</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>50</y>
+     <width>161</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Zdeněk Svěrák, Jaroslav Uhlíř</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

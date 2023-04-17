@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>714</width>
+    <height>765</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(125, 125, 125);</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>30</y>
+     <width>201</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>16</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string>Trpasličí svatba</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>100</y>
+     <width>241</width>
+     <height>601</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(104, 104, 104);
+gridline-color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>   G                 C       G
+1. V lese, jó v lese na jehličí,
+                  A      D7
+   koná se svatba trpasličí,
+   G           C        H7
+   žádná divná věc to není,
+   C      C#dim G     Emi  A        D7  (D)
+   Šmudla už má po vojně a tak se žení.
+   Malou má ženu, malinkatou,
+   s malým věnem, malou chatou.
+   Už jim choděj' telegrámky,
+   už jim hrajou Mendelssohna na varhánky.
+
+           D                            G
+R. Protože láska, láska, láska v každém srdci klíčí,
+           D                      G
+   protože láskou hoří i to srdce trpasličí
+              D                    G
+   a kdo se v téhle věci jednoduše neopičí,
+             D                       G       D    D7
+   ten ať se dívá, co se děje v lese na jehličí.
+
+2. Mají tam lásku, jako trámek,
+   pláče tchyňka, pláče tchánek,
+   štěstíčko přejou mladí, staří,
+   v papinově hrníčku se maso vaří.
+   Pijou tam pivo popovický, (ale jen malý),
+   Šmudla se polil, jako vždycky,
+   Kejchal kejchá na Profouse,
+   jedí hrášek s uzeným a nafouknou se.
+
+R. Protože láska, .....
+
+3. V lese, jó v lese na jehličí,
+   koná se svatba trpasličí,
+   žádná divná věc to není,
+   Šmudla už má po vojně
+   a Šmudla už má po vojně
+   a Šmudla už má po vojně
+   a tak se žení.</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>70</y>
+     <width>151</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string>Fešáci</string>
+   </property>
+  </widget>
+  <widget class="QTreeWidget" name="treeWidget">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>100</y>
+     <width>311</width>
+     <height>601</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(209, 209, 209);
+background-image: url(:/newPrefix/PycharmProjects/omega/script/Main/pics/akordy4.png);</string>
+   </property>
+   <column>
+    <property name="text">
+     <string>Akordy</string>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+   </column>
+  </widget>
+ </widget>
+ <resources>
+  <include location="../../../../OneDrive/Desktop/akordy3.qrc"/>
+ </resources>
+ <connections/>
+</ui>

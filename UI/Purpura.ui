@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>711</width>
+    <height>761</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>10</y>
+     <width>141</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>16</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Purpura</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>80</y>
+     <width>401</width>
+     <height>311</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Es                              As              Es
+Tiše a ochotně purpura na plotně voní, stále voní,
+                                      B7  As   Fmi B7
+nikdo si nevšímá, jak život mění se v dým.
+
+Es                                       As           Es
+Snad jenom v podkroví básníci bláhoví pro ni slzy roní,
+                    B7               Es As  Es Es7
+hrany jí odzvoní rampouchem křišťálovým.
+
+As                                         Es
+Slunce se vynoří, hned však se k pohoří skloní, rychle skloní,
+  Cmi                 F       F7  B     As    B7
+a pak se dostaví dlouhá a pokojná noc.
+
+Es                               As              Es
+Tiše a ochotně purpura na plotně voní, stále voní,
+                          B7              Es  As  Es
+po ní k nám vklouzlo to tajemné kouzlo vánoc.</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>50</y>
+     <width>91</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Vánoční koledy</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>70</y>
+     <width>321</width>
+     <height>561</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(:/newPrefix/Main/pics/akordy1.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="Purpura.ui"/>
+ </resources>
+ <connections/>
+</ui>

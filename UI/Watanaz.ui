@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>712</width>
+    <height>764</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>130</y>
+     <width>401</width>
+     <height>311</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>  D
+1. Spinkej můj maličký
+   C           D
+   máš v očích hvězdičky
+             C            G          D
+   dám ti je do vlasů tak usínej tak usínej
+
+   D             C     D
+R: Ho ho Watanay ho ho Watanay
+         C       G       D
+   ho ho Watanay kiokena kiokena
+
+2. Sladkou vůňi nese ti
+   noční motýl z paseky
+   vánek ho políbá už usíná už usíná
+   
+3. V lukách cosi zavoní
+   rád jezdíš na koni
+   má barvu havraní jak uhání jak uhání
+   
+4. V dlani motýl usína
+   hvězdička už zhasíná
+   vánek co ji k tobě nes až do léta ti odlétá
+
+R: Ho ho Watanay...</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>60</y>
+     <width>91</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Maxim Turbulec</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>20</y>
+     <width>141</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>16</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Ho Ho Watanay</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
